@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "The Full Stack React Course",
-        "price":"5500",
+        "price":"$49.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/2a1a06ef15de460c84a0a8d46be367e1/eac3787aa3054b5995d00bd4e1d498c4",
         "des" : "The long awaited Full Stack course is here! In this course, I will teach you how to build a full stack application in an smooth, straightforward way. Learning full stack sounds hard, but in this course, I’ve ensured to keep it fun, easy to understand and informative. You will have a great understanding of all concepts, whilst also having a stylish full stack application to use in your portfolio at the end.",
         "short_des" : "Learn to create a full E-Commerce App With React and Next.js"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "The Creative React and Redux Course",
-        "price":"4500",
+        "price":"$29.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/S5atf80QTb2tZOScHsiW",
         "des" : "This course will teach you everything you need to know about React.Get started now with 0 experience in React, we will take it step by step from the beginning understanding basics concepts to creating complex web apps with Redux.",
         "short_des" : "Build 3 Awesome Web Applications With React!"
@@ -18,7 +18,7 @@
     { 
         "id": 3,
         "name": "The Creative Javascript Course",
-        "price":"4500",
+        "price":"$29.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/xaFJhlqzQpWEo3VcIVvW",
         "des" : "Javascript is the most popular programming language in the world! This course is ideal for anyone who wants to get started in front end development. Learn javascript from absolute scratch with no prior experience.We build small projects, larger web apps, websites and more!",
         "short_des" : "From Beginner Javascript To Building Awesome Web Apps and Websites!"
@@ -26,7 +26,7 @@
     {   
         "id": 4,
         "name": "The Ultimate JavaScript Animation Course",
-        "price":"4500",
+        "price":"$39.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/4Q0byV2QfCLbgoDS7djA",
         "des" : "Learn how to do creative and engaging animation with no previous experience. Animation is so important in front end design as it grabs the attention of the user and provides engagement, enhancing their experience.Master the skills of thoughtful and strategic animation and boost your Front End skills with this course.This is a beginner friendly course. Previous knowledge of HTML, CSS and basic JavaScript helpful.",
         "short_des" : "Build 6 awesome projects to master animation and upgrade your Front End skills."
@@ -34,7 +34,7 @@
     {   
         "id": 5,
         "name": "The Creative HTML5 & CSS3 Course",
-        "price":"4500",
+        "price":"$19.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/eYA6E8L3TiGl0GxpQoS6",
         "des" : "If you are a complete beginner we will cover all the basics to get you up and going to create your first website. If you have some web development skills already, do not worry! We will create 3 amazing projects with awesome design and animations!",
         "short_des" : "Create 3 amazing, well designed and animated websites from scratch!"
@@ -42,7 +42,7 @@
    {  
         "id": 6,
         "name": "The Creative Front End Development Bundle",
-        "price":"4500",
+        "price":"$39.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Zv2RCOYuSsaVRJgDB2jv",
         "des" : "Gain access to both - Creative HTML5 and CSS3 / The Creative Javascript Course in one package! Get started with your front development journey with over 35 hours of content filled with projects and fun!",
         "short_des" : "Learn Front End Web Development With HTML CSS and Javascript!"
