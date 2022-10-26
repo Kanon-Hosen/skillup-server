@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "category":"Full stack" ,
         "name": "The Full Stack React Course",
         "price":"$49.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/2a1a06ef15de460c84a0a8d46be367e1/eac3787aa3054b5995d00bd4e1d498c4",
@@ -9,6 +10,7 @@
     },
     {
         "id": 2,
+        "category":"Redux" ,
         "name": "The Creative React and Redux Course",
         "price":"$29.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/S5atf80QTb2tZOScHsiW",
@@ -17,6 +19,7 @@
     },
     { 
         "id": 3,
+        "category":"Javascript" ,
         "name": "The Creative Javascript Course",
         "price":"$29.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/xaFJhlqzQpWEo3VcIVvW",
@@ -25,6 +28,7 @@
     },
     {   
         "id": 4,
+        "category":"Javascript animation" ,
         "name": "The Ultimate JavaScript Animation Course",
         "price":"$39.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/4Q0byV2QfCLbgoDS7djA",
@@ -33,6 +37,7 @@
     },
     {   
         "id": 5,
+        "category":"Html & Css" ,
         "name": "The Creative HTML5 & CSS3 Course",
         "price":"$19.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/eYA6E8L3TiGl0GxpQoS6",
@@ -41,6 +46,7 @@
 },
    {  
         "id": 6,
+        "category":"Front end" ,
         "name": "The Creative Front End Development Bundle",
         "price":"$39.99",
         "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Zv2RCOYuSsaVRJgDB2jv",
