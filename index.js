@@ -16,6 +16,10 @@ app.get('/courses/:id', (req , res) => {
     const course = courses.find(co => co.id == id);
     res.send(course)
 })
+const catagory = require('./data/category.json')
+app.get('/category', (req , res) => {
+    res.send(catagory)
+})
 
 app.listen(port, () => {
     console.log('this server start on port ' + port);

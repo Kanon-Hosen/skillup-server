@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category":"Full stack" 
+    },
+    {
+        "id": 2,
+        "category":"Redux" 
+    },
+    {
+        "id": 3,
+        "category":"Javascript" 
+    },
+    {
+        "id": 4,
+        "category":"Animation" 
+    },
+    {
+        "id": 5,
+        "category":"Html & Css" 
+    },
+    {
+        "id": 6,
+        "category":"Front end" 
+    }
+]
